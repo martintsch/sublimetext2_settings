@@ -1,8 +1,14 @@
 {
+  "auto_indent": true,
+  "detect_indentation": true,
+  "fade_fold_buttons": true,
+  "fade_fold_buttons": true,
+  "fold_buttons": true,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"draw_white_space": "all",
 	"font_size": 13.0,
 	"tabSize": 2,
+  "remember_open_files": false,
 	"theme": "Soda Dark.sublime-theme",
 	"translateTabsToSpaces": true,
 	"trim_trailing_white_space_on_save": true
