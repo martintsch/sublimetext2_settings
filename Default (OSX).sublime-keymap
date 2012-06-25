@@ -1,0 +1,5 @@
+[
+    // { "keys": ["ctrl+super+s"], "command": "exec", "args": {"cmd":["sync_server"]} }
+    { "keys": ["ctrl+super+s"], "command": "exec", "args": {"cmd":["xing", "sandbox", "sync", "--host", "x"]} },
+    { "keys": ["ctrl+super+p"], "command": "exec", "args": {"cmd":["xing", "sandbox", "sync", "--app", "perl", "--host", "x"]} }
+]

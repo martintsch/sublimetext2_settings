@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 13.0,
+	"tabSize": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translateTabsToSpaces": true,
+	"trim_trailing_white_space_on_save": true
+}
